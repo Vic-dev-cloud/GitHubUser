@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="title">Git User</string>
+    <string name="site_admin">STAFF</string>
+</resources>
